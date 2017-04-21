@@ -22,8 +22,6 @@ I'm still trying to compact it more by throwing more code into subroutines.  The
 - Guess the word wrong 6 times.
 - A combination of the two.
 
-It's hangman.  who doesn't know how to play hangman, really.
 
-####I'm not a developer, I just want to play.
 I built the program into an executable .jar.  All you need to do is download this repository, go to the `dist` folder, and run `hangman.jar` 
 with your JRE. (which you need to have installed first).
